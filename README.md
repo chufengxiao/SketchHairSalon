@@ -1,2 +1,2 @@
-# sketchhairsalon.github.io
-The project page of SketchHairSalon: Deep Sketch-based Hair Image Synthesis
+# _SketchHairSalon_: Deep Sketch-based Hair Image Synthesis
+Code and dataset are coming soon.
