@@ -4,7 +4,7 @@
 
 > Chufeng Xiao, Deng Yu, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/), [Youyi Zheng](https://www.youyizheng.net/), [Hongbo Fu](https://sweb.cityu.edu.hk/hongbofu/)
 >
-> [[Paper]](https://arxiv.org/abs/2109.07874) [[Project Page]](https://chufengxiao.github.io/SketchHairSalon/) [[Pretrained Models]](#Pretrained Models)  [[Dataset]](#Dataset) [[Supplemental Material]](https://github.com/chufengxiao/SketchHairSalon/blob/project-page/supp.pdf) [[Video]](https://www.youtube.com/watch?v=riJlGrRfA4Y)
+> [[Paper]](https://arxiv.org/abs/2109.07874) [[Project Page]](https://chufengxiao.github.io/SketchHairSalon/) [[Dataset]](#Dataset) [[Supplemental Material]](https://github.com/chufengxiao/SketchHairSalon/blob/project-page/supp.pdf) [[Video]](https://www.youtube.com/watch?v=riJlGrRfA4Y)
 >
 > Accepted by SIGGRAPH Asia 2021
 
