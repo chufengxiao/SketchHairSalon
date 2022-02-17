@@ -1,0 +1,3 @@
+# --use_aug means using data augmentation for training (translation, rotation, flip)
+# If you want to train the models from scratch, then remove `--continue_train` and `--epoch` command
+python train.py --dataroot ./dataset/ --name S2M --model pix2pix --netG unet_at --dataset_mode matte --use_aug --batch_size 10 --save_epoch_freq 50 --epoch_count 1 --n_epochs 200 --n_epochs_decay 0 --display_freq 10 --save_latest_freq 40000  --print_freq 100 --no_flip --gpu_ids 0 --continue_train --epoch 200

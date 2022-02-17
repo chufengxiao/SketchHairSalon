@@ -1,0 +1,1 @@
+python test.py --dataroot ./dataset/braid --name S2I_braid --netG unet_at_bg --model pix2pix_hair --dataset_mode hair --gpu_ids 0 --num_test 500 --epoch 400 
