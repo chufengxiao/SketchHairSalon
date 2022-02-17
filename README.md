@@ -37,8 +37,8 @@ Please download our [pretrained models](https://drive.google.com/file/d/1XiJbvWx
 If you only want to fast test some results using the pretrained models, you can directly run the below command to test the samples in the `test_img` folder. The testing consists of two stages and produce the final results in the `results` folder.
 
 ```bash
-# python full_test.py [hair_type: unbrfaid or braid]
-python full_test.py unbraid
+python full_test.py unbraid # for unbraided hairstyles
+python full_test.py braid # for braided hairstyles
 ```
 
 ### Dataset
