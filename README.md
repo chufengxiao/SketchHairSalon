@@ -48,7 +48,7 @@ You can download our created [dataset](https://drive.google.com/file/d/1hbQhEBmy
 * The dataset is available for non-commercial research purposes only.
 * All images of the dataset are obtained from the Internet which are not property of us. We are not responsible for the content nor the meaning of these images.
 * All mattes of the dataset are auto-generated from the images by [CGA-matting](https://github.com/Yaoyi-Li/GCA-Matting).
-* All sketches of the dataset are traced by users we hired. (Note that for hair sketches, each stroke is assigned with a random color to be distinguished with each other, which will be color-coded to depict hair appearance when training and testing).
+* All sketches of the dataset are traced by users we hired. (Note that for hair sketches, each stroke is assigned with a random color to be distinguished with each other, which will be color-coded to depict hair appearance when training and testing.)
 * You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 * We reserves the right to terminate your access to *SketchHairSalon* dataset at any time.
 
