@@ -94,14 +94,14 @@ This code is developed based on [pix2pix](https://github.com/phillipi/pix2pix) a
 
 ```tex
 @article{xiao2021sketchhairsalon,
-  title={SketchHairSalon: deep sketch-based hair image synthesis},
-  author={Xiao, Chufeng and Yu, Deng and Han, Xiaoguang and Zheng, Youyi and Fu, Hongbo},
-  journal={ACM Transactions on Graphics (TOG)},
-  volume={40},
-  number={6},
-  pages={1--16},
-  year={2021},
-  publisher={ACM New York, NY, USA}
+      title={SketchHairSalon: Deep Sketch-based Hair Image Synthesis}, 
+      author={Chufeng Xiao and Deng Yu and Xiaoguang Han and Youyi Zheng and Hongbo Fu},
+      journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH Asia 2021)},
+      volume={40},
+      number={6},
+      pages={1--16},
+      year={2021},
+      publisher={ACM New York, NY, USA}
 }
 ```
 
