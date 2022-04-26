@@ -12,4 +12,4 @@ scikit_image==0.17.2
 beautifulsoup4==4.10.0
 completion==0.1.2
 Pillow==9.0.1
-skimage==0.0
+scikit-image
