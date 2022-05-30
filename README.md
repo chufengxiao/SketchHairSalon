@@ -57,14 +57,14 @@ You can download our created [dataset](https://drive.google.com/file/d/1hbQhEBmy
 You can fine-tune and test each stage of our networks (Sketch2Matte and Sketch2Image) using the scripts:
 
 ```bash
-# You can run one line of the below commands for certain purpose
+# You can run one line of the below commands for a certain purpose
 
-## For fine-tuning (The checkpoint and resulting files will be saved in the 'checkpoints' folder):
+## For fine-tuning (The checkpoint and resulting files during training will be saved in the 'checkpoints' folder):
 sh scripts/train_S2M.sh # Sketch2Matte
 sh scripts/train_S2I_unbraid.sh # Sketch2Image (unbraid)
 sh scripts/train_S2I_braid.sh # Sketch2Image (braid)
 
-## For tessting (The results will be saved in the 'results' floder):
+## For testing (The results will be saved in the 'results' folder):
 sh scripts/test_S2M.sh # Sketch2Matte
 sh scripts/test_S2I_unbraid.sh # Sketch2Image (unbraid)
 sh scripts/test_S2I_braid.sh # Sketch2Image (braid)
