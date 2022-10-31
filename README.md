@@ -37,8 +37,17 @@ Please download our [pretrained models](https://drive.google.com/file/d/1XiJbvWx
 If you only want to fast test some results using the pretrained models, you can directly run the below command to test the samples in the `test_img` folder. The testing consists of two stages and produce the final results in the `results` folder.
 
 ```bash
+## A full pipeline with S2M and S2I
 python full_test.py unbraid # for unbraided hairstyles
 python full_test.py braid # for braided hairstyles
+
+## Sketch2Matte
+python S2M_test.py unbraid # for unbraided hairstyles
+python S2M_test.py braid # for braided hairstyles
+
+## Sketch2Image
+python S2I_test.py unbraid # for unbraided hairstyles
+python S2I_test.py braid # for braided hairstyles
 ```
 
 ### Dataset
